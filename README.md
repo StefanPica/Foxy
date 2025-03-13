@@ -1,2 +1,2 @@
 # Foxy
-First project, based on a tutorial!
+Simple 2D game created with Unity engine, C# language
